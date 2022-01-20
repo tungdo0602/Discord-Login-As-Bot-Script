@@ -2,7 +2,7 @@
 Fixed by me
 
 # Script To login as bot:
-## Note: this script can run without error but not work for some reason, if you're developer u can fix it and open a pull request
+## Note: this script can run without error but not work for some reason, if you're developer you can help me by find the error/missing part and open a pull request
 ```js
 function botlogin(token) {
 let dispatcher;
